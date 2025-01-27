@@ -1,2 +1,3 @@
 # Eight-Puzzle
-![image](https://github.com/user-attachments/assets/e89a30be-d312-4e32-bae3-8766e7322a01)
+![image](https://github.com/user-attachments/assets/336f6d7c-3696-4de3-b38e-c69f716c7faf)
+
