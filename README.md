@@ -61,4 +61,4 @@ After extensive testing, we found that the **A* Search** algorithm combined with
 - **h3 (Manhattan Distance)** provided the most accurate estimate of the remaining cost to reach the goal state.
 - **DFS** was the fastest but often returned suboptimal solutions due to its depth-limited nature.
 
-For more detailed results, refer to the [project report](#).
+For more detailed results, refer to the [8-Puzzle Report](8-Puzzle.pdf).
