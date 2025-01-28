@@ -6,15 +6,6 @@
 
 Welcome to the **8-Puzzle** project! This repository contains the implementation of various heuristics and search algorithms to solve the classic 8-puzzle problem. The project is designed to explore the efficiency of different heuristic functions and search strategies in finding the optimal solution to the puzzle.
 
-## 📋 Table of Contents
-1. [Introduction](#-introduction)
-2. [Heuristics Implemented](#-heuristics-implemented)
-3. [Search Algorithms](#-search-algorithms)
-4. [Tasks](#-tasks)
-5. [Results](#-results)
-6. [Conclusion](#-conclusion)
-7. [References](#-references)
-
 ## 🌟 Introduction
 
 The 8-puzzle is a classic sliding puzzle that consists of a 3x3 grid with 8 numbered tiles and one empty space. The goal is to rearrange the tiles from a given initial state to a specified goal state by sliding the tiles into the empty space. This project focuses on implementing and comparing different heuristic functions and search algorithms to solve the 8-puzzle efficiently.
