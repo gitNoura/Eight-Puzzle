@@ -32,7 +32,7 @@ We implemented and compared the following search algorithms:
 
 - **Depth-First Search (DFS)** 🔍
 - **Breadth-First Search (BFS)** 🌐
-- **A* Search** ⭐
+- **A'*' Search** ⭐
 - **Uniform Cost Search (UCS)** ⚖️
 
 Each algorithm was tested with the four heuristics to evaluate their performance in terms of solution depth, number of expanded nodes, and fringe size.
@@ -57,7 +57,7 @@ The project was divided into the following tasks:
 
 After extensive testing, we found that the **A* Search** algorithm combined with the **Manhattan Distance heuristic (h3)** performed the best in terms of solution optimality and efficiency. Below are some key findings:
 
-- **A* Search** had the smallest fringe size and explored fewer nodes compared to BFS and DFS.
+- **A'*' Search** had the smallest fringe size and explored fewer nodes compared to BFS and DFS.
 - **h3 (Manhattan Distance)** provided the most accurate estimate of the remaining cost to reach the goal state.
 - **DFS** was the fastest but often returned suboptimal solutions due to its depth-limited nature.
 
